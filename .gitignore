@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/cpp/Debug
+/cpp/qr.vcxproj.user
+/cpp/qr.vcxproj.filters
+/cpp/qr.vcxproj
+/cpp/qr.sln
+/cpp/.vs/qr/v16
